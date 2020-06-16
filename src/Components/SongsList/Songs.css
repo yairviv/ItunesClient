@@ -1,0 +1,22 @@
+.searchArea{
+    text-align: center;
+    margin-top: 15px;
+}
+.searchField{
+    width: 500px;
+}
+.resultsView{
+    display: flex;
+    flex-wrap: wrap
+}
+.ituneCard{
+    margin: 10px
+}
+.searchItmes{
+    display: inline-flex;
+}
+
+.spinner{
+    margin-right: 10px;
+    width: 70px;
+}

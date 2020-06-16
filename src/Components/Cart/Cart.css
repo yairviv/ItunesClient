@@ -1,0 +1,23 @@
+.cartImage{
+    max-width: 200px;
+}
+
+.cartImageWrapper{
+    text-align: center;
+}
+.carItemDetailsWrapper{
+    display: flex;
+}
+.cartItemDetail{
+margin: auto;
+max-width: 98px;;
+}
+.cartItemSpan{
+    width: -webkit-fill-available
+}
+.cartItemWrapper{
+    display: flex
+}
+.minusButton{
+    margin-top: 20px
+}

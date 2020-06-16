@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ItunesClient/static/css/main.81131266.chunk.css",
+    "main.js": "/ItunesClient/static/js/main.550f7c73.chunk.js",
+    "main.js.map": "/ItunesClient/static/js/main.550f7c73.chunk.js.map",
+    "runtime-main.js": "/ItunesClient/static/js/runtime-main.2f69e83f.js",
+    "runtime-main.js.map": "/ItunesClient/static/js/runtime-main.2f69e83f.js.map",
+    "static/js/2.8855a6c1.chunk.js": "/ItunesClient/static/js/2.8855a6c1.chunk.js",
+    "static/js/2.8855a6c1.chunk.js.map": "/ItunesClient/static/js/2.8855a6c1.chunk.js.map",
+    "index.html": "/ItunesClient/index.html",
+    "precache-manifest.80a600b165049cf71906edde80d4e372.js": "/ItunesClient/precache-manifest.80a600b165049cf71906edde80d4e372.js",
+    "service-worker.js": "/ItunesClient/service-worker.js",
+    "static/css/main.81131266.chunk.css.map": "/ItunesClient/static/css/main.81131266.chunk.css.map",
+    "static/js/2.8855a6c1.chunk.js.LICENSE.txt": "/ItunesClient/static/js/2.8855a6c1.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart.svg": "/ItunesClient/static/media/shopping-cart.2f79694d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f69e83f.js",
+    "static/js/2.8855a6c1.chunk.js",
+    "static/css/main.81131266.chunk.css",
+    "static/js/main.550f7c73.chunk.js"
+  ]
+}
